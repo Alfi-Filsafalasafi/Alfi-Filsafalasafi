@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alfi Filsafalasafi</h1>
 <h3 align="center">A Software Developer (Desktop, Web, Mobile(Intermediate))</h3>
-<img align="right" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **dart, C#, AR, phyton**
 
