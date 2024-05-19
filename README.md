@@ -22,4 +22,4 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfi-Filsafalasafi)](https://github.com/Alfi-Filsafalasafi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alfi-filsafalasafi&layout=compact)](https://github.com/Alfi-filsafalasafi/github-readme-stats&layout=compact)
