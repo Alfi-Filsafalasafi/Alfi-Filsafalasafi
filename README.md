@@ -20,3 +20,6 @@
 <a href="https://dribbble.com/filsafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="filsafat" height="30" width="40" /></a>
 <a href="https://discord.gg/Filsafalasafi#9154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Filsafalasafi#9154" height="30" width="40" /></a>
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alfi-Filsafalasafi)](https://github.com/Alfi-Filsafalasafi/github-readme-stats)
